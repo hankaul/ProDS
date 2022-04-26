@@ -2,7 +2,7 @@
 /data/
 /data2/
 /SkinCancer/
-
+*ttf
  Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
 
